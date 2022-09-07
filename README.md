@@ -5,14 +5,12 @@ This project uses EDA to analyse Lending Club's customer dataset to infer which 
 Perform an analysis to understand the driving factors (or driver variables) behind loan default, i.e.the variables which are strong indicators of default.
 
 ## Table of Contents
-* [General Info](#general-information)
 * [Libraries used](#libary-used)
 * [Files](#files)
 * [Conclusions](#conclusions)
 * [Driving Factors](#Important-driving-factors-for-judging-risk-of-an-applicant)
 * [Contact](#Contact)
 * [Running the notebook locally](#note)
-
 
 ## Libaries Used
 - Pandas 1.4.4
@@ -41,7 +39,6 @@ The analysis in the **Lending_Club_EDA.ipynb** has resulted in the below inferen
 - Applicant is from California
 
 There are several other inferences as well but most of them are correlated. For e.g. Grade-Loan amount - Term - Rate of Interest.
-
 
 ## Important Driving Factors for judging Risk of an applicant:
 1. Loan Amount
