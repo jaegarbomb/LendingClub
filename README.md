@@ -26,10 +26,18 @@ Perform an analysis to understand the driving factors (or driver variables) behi
 - **Lending Club Case Study Report.pdf** : The final report containing the visualizations and inferences.
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+The analysis in the ______ has resulted in the below inferences:
+
+- Applicants having house_ownership as 'RENT'
+- Applicants who use the loan to clear other debts (debt consolidation)
+- Applicants who receive interest at the rate of 13-17%
+- Applicants with employement length of 10+ years
+- Dti is between 12-18
+- Term of 60 months
+- Grade is 'B'
+- Applicant is from California
+
+There are several other inferences as well but most of them are correlated. For e.g. Grade-Loan amount- Term - Rate of Interest.
 
 ## Contact
 Created by Jayit Ghosh [@jaegarbomb]
