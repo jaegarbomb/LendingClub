@@ -26,15 +26,16 @@ Perform an analysis to understand the driving factors (or driver variables) behi
 
 ## Conclusions
 The analysis in the Lending_Club_EDA.ipynb has resulted in the below inferences:
+An Applicant is *likely* to default if:
 
-- Applicants having house_ownership as 'RENT'
-- Applicants who use the loan to clear other debts (debt consolidation)
-- Applicants who receive interest at the rate of 13-17%
-- Applicants with employement length of 10+ years
-- Dti is between 12-18
-- Term of 60 months
-- Grade is 'B'
-- Applicant is from California
+- they have house_ownership as 'RENT'
+- they use the loan to clear other debts (debt consolidation)
+- they receive interest at the rate of 13-17%
+- they have employement length of 10+ years
+- their Debt-to-Income ratio is between 12-18
+- their loan has a term of 60 months
+- their loan Grade is 'B'
+- their state of residence is California
 
 There are several other inferences as well but most of them are correlated. For e.g. Grade-Loan amount- Term - Rate of Interest.
 
