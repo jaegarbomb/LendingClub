@@ -11,8 +11,6 @@ Perform an analysis to understand the driving factors (or driver variables) behi
 * [Conclusions](#conclusions)
 * [Contact](#Contact)
 
-<!-- You can include any other section that is pertinent to your problem -->
-
 ## Libaries Used
 - Pandas 1.4.4
 - Matplotlib 3.5.3
@@ -23,10 +21,11 @@ Perform an analysis to understand the driving factors (or driver variables) behi
 - **loan.csv** : The main dataset
 - **Data_Dictionary.xlsx** : This contains explanation of all the columns in the dataset. 
 - **State_abbr.json** : This JSON file contains the Abbreviation-FullName of all the US states. This is used in analysis of states for better readability.
+- **Lending_Club_EDA.ipynb** : The Jupyter notebook containing the analysis of the dataset.
 - **Lending Club Case Study Report.pdf** : The final report containing the visualizations and inferences.
 
 ## Conclusions
-The analysis in the ______ has resulted in the below inferences:
+The analysis in the Lending_Club_EDA.ipynb has resulted in the below inferences:
 
 - Applicants having house_ownership as 'RENT'
 - Applicants who use the loan to clear other debts (debt consolidation)
